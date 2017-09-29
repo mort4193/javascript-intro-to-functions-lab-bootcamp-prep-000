@@ -15,7 +15,7 @@ console.log('HELLO'.toLowerCase())
 }
 
 function sayHiToGrandma (string) {
-  return string
+  console.log(string)
 }
 sayHiToGrandma('hello')
 sayHiToGrandma('HELLO')
