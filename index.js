@@ -19,4 +19,4 @@ function sayHiToGrandma (string) {
 }
 sayHiToGrandma('hello'.toLoweCase())
 sayHiToGrandma('HELLO'.toUpperCase())
-sayHiToGrandma('I love you, Grandma.'.toMixedCase())
+sayHiToGrandma("I love you, Grandma.".toMixedCase())
